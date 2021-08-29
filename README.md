@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @forbetterweb
+- 👋 Hi, I’m @fatma
 - 👀 I’m interested in SQL, JavaScript, TypeScript, Java and JEE
 - 🌱 I’m currently learning Spring and Angular frameworks
 - 💞️ I’m looking to collaborate on projects in the domain of Accounting based on the aforementionned programming languages 
